@@ -1,3 +1,5 @@
+// task: access  some elements of an array
+
 const data = [1, 5, 7, 3, 0, 3, 6, 7, 3, 8]
 
 console.log(data[2])
