@@ -1,0 +1,19 @@
+operations
+    traversal
+    insertion
+    deletion
+    searching
+    sorting
+    merging
+    map
+    recursion
+
+data types
+
+    array
+    stack
+    queue
+    tree
+    graph
+    set
+    
